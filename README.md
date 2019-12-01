@@ -2,7 +2,18 @@
 ## License: CERN Open Hardware Licence v1.2
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-COPY THE DESCRIPTION FILE CONTENTS HERE
+Delete one of the license lines above, and replace this line and following with the contents of the doc.md file
+
+### How to use this template:
+
+  1. Create a repo using this template, 
+  2. Use eagle to create your project
+  3. Edit the other text files to describe your project
+  4. git add .
+  5. git commit -m "add to git"
+  6. git tag -a 1.0 -m 1.0
+  7. git push origin 1.0
+  
 
 This is a template for new eagle designs.
 It includes a blank schematic with a title block ready for editing and a
