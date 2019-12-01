@@ -1,10 +1,10 @@
-# REPO NAME: EagleTemplate-migrate
+# REPO NAME: EagleTemplate-new
 ## License: CERN Open Hardware Licence v1.2
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 COPY THE DESCRIPTION FILE CONTENTS HERE
 
-First line: A short description of the project, used as a subtitle ot tagline
+First line: A short description of the project, used as a subtitle or tagline
 
 Remaining lines: a verbose changelog of what makes this "git version" different from the last.
 Use this space (in Markdown format) to describe the context and details of the changes.
