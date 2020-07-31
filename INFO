@@ -1,4 +1,4 @@
-name: Repo Name - the repo name must exactly match the project directory name as well as the names of the brd and sch files
+title: Repo Name - the repo name must exactly match the project directory name as well as the names of the brd and sch files
 designer: John Plocher, Seth Neumann
 fabricated: Pick one of   yes, no
 fab_date: YYYY-MM
